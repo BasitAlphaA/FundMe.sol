@@ -1,5 +1,7 @@
 {
   "name": "hardhat-fund-me",
+  "aurther": "Abdul-Basit",
+  "version": "1.0.0",
   "packageManager": "yarn@4.3.0",
   "devDependencies": {
     "@chainlink/contracts": "^1.1.1",
